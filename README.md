@@ -1,1 +1,1 @@
-# first_css_project
+# starter_css_project
